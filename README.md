@@ -6,4 +6,6 @@ This bot tells the daily cupons for a city depending on the day. It changes cupo
 
 This project was made quickly to work for a specific case. But as more people and servers want to use this, I have started working on a more unified and better way for these servers to load in their own data. 
 
+The code from this is then put into apps after a working version can be made. Though, other servers just use the Colaboratory. 
+
 __For any questions message:__ VodkaOrWodka#5239
